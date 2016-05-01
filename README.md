@@ -1,6 +1,6 @@
 # Erupt
 
-### A slick dark code editor and sytax theme for [Jet Brains](https://www.jetbrains.com/) ide's such as [Webstorm](https://www.jetbrains.com/webstorm/). 
+### A slick dark code editor and syntax theme for [Jet Brains](https://www.jetbrains.com/) ide's such as [Webstorm](https://www.jetbrains.com/webstorm/). 
 
 This theme has very much been inspired by the popular [predawn](https://github.com/jamiewilson/predawn) theme for Sublime Text.
 
