@@ -16,7 +16,7 @@ Please note I have only tested this theme with Webstorm 2016.1.1, I beleive it s
 2. In Webstorm, On the main menu, choose 'File' then 'Import Settings'.
 3. In the 'Import File Location' dialog box that opens, select the "erupt.jar" file you downloaded in step 1.
 4. Click 'OK'.
-5. In the 'Select Components to Import' dialog box that opens, insure '' is checked.
+5. In the 'Select Components to Import' dialog box that opens, insure 'Editor Colors' is checked.
 6. Click 'OK'.
 7. Restart Webstorm.
 
