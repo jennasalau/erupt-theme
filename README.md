@@ -12,7 +12,7 @@ Please note I have only tested this theme with Webstorm 2016.1.1, I beleive it s
 
 ## Installation
 
-1. Download the "erupt.jar" file and save somewhere convienent on your computer.
+1. Download the "[erupt.jar](https://github.com/jennasalau/erupt-theme/raw/master/erupt.jar)" file and save somewhere convienent on your computer.
 2. In Webstorm, On the main menu, choose 'File' then 'Import Settings'.
 3. In the 'Import File Location' dialog box that opens, select the "erupt.jar" file you downloaded in step 1.
 4. Click 'OK'.
